@@ -1,0 +1,39 @@
+MySQL:3306/login/usuario/		http://localhost/phpmyadmin/index.php?route=/sql&pos=0&db=login&table=usuario
+
+   Mostrando filas 0 - 24 (total de 80, La consulta tardó 0,0004 segundos.)
+
+
+SELECT * FROM `usuario`
+
+
+ID	DNI	NOMBREUSUARIO	fk_rol	
+1	25896341	Juan Pablo	1	
+2	123	Aldana	2	
+10	34625736	Domínguez Clara	2	
+3	123	Yamila	4	
+5	123	Mariano	3	
+6	123	Rodrigo	5	
+4	67584920	Gómez Armando	5	
+9	34625736	Garcia Ernaldo	4	
+11	34625736	Domínguez Clara	2	
+12	37652554	Romero Hugo	3	
+7	78534561	Romano Zulma	2	
+8	32198765	Gordillo Javier	5	
+13	77712345	Beltrán Débora	2	
+14	87998761	Benítez Maximiliano	4	
+15	12349876	Heredia Pedro	4	
+16	54321234
+	Bravo Roberto	5	
+17	43213456	Delgado Silvia	3	
+18	65476543
+	Ortega Anibal	1	
+19	90872134	Perez Adriana	2	
+20	21134567
+	Ortiz Liliana	3	
+21	76564321	Muñiz Soledad	2	
+22	78923456
+	Gutierrez Edith	5	
+23	98712876	Rios Lucía	3	
+24	76541234	Ferrari Daniela 
+	5	
+25	23456787	Ibañez Sergio	4	

@@ -1,0 +1,39 @@
+C:\Users\Toti\AppData\Local\Temporary Projects\Trabajo_practico\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Toti\AppData\Local\Temporary Projects\Trabajo_practico\obj\Debug\Trabajo_practico.FrmInicio.resources
+C:\Users\Toti\AppData\Local\Temporary Projects\Trabajo_practico\obj\Debug\Trabajo_practico.Resources.resources
+C:\Users\Toti\AppData\Local\Temporary Projects\Trabajo_practico\obj\Debug\Trabajo_practico.vbproj.GenerateResource.Cache
+C:\Users\Toti\AppData\Local\Temporary Projects\Trabajo_practico\bin\Debug\Trabajo_practico.exe
+C:\Users\Toti\AppData\Local\Temporary Projects\Trabajo_practico\bin\Debug\Trabajo_practico.pdb
+C:\Users\Toti\AppData\Local\Temporary Projects\Trabajo_practico\bin\Debug\Trabajo_practico.xml
+C:\Users\Toti\AppData\Local\Temporary Projects\Trabajo_practico\obj\Debug\Trabajo_practico.FrmOrden.resources
+C:\Users\Toti\AppData\Local\Temporary Projects\Trabajo_practico\obj\Debug\Trabajo_practico.exe
+C:\Users\Toti\AppData\Local\Temporary Projects\Trabajo_practico\obj\Debug\Trabajo_practico.xml
+C:\Users\Toti\AppData\Local\Temporary Projects\Trabajo_practico\obj\Debug\Trabajo_practico.pdb
+C:\Users\Toti\OneDrive\Documentos\Visual Studio 2008\Projects\Trabajo_practico\Trabajo_practico\obj\Debug\Trabajo_practico.exe
+C:\Users\Toti\OneDrive\Documentos\Visual Studio 2008\Projects\Trabajo_practico\Trabajo_practico\obj\Debug\Trabajo_practico.xml
+C:\Users\Toti\OneDrive\Documentos\Visual Studio 2008\Projects\Trabajo_practico\Trabajo_practico\obj\Debug\Trabajo_practico.pdb
+C:\Users\Toti\OneDrive\Documentos\Visual Studio 2008\Projects\Trabajo_practico\Trabajo_practico\bin\Debug\Trabajo_practico.exe
+C:\Users\Toti\OneDrive\Documentos\Visual Studio 2008\Projects\Trabajo_practico\Trabajo_practico\bin\Debug\Trabajo_practico.pdb
+C:\Users\Toti\OneDrive\Documentos\Visual Studio 2008\Projects\Trabajo_practico\Trabajo_practico\bin\Debug\Trabajo_practico.xml
+C:\Users\Toti\OneDrive\Documentos\Visual Studio 2008\Projects\Trabajo_practico\Trabajo_practico\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Toti\OneDrive\Documentos\Visual Studio 2008\Projects\Trabajo_practico\Trabajo_practico\obj\Debug\Trabajo_practico.FrmInicio.resources
+C:\Users\Toti\OneDrive\Documentos\Visual Studio 2008\Projects\Trabajo_practico\Trabajo_practico\obj\Debug\Trabajo_practico.FrmOrden.resources
+C:\Users\Toti\OneDrive\Documentos\Visual Studio 2008\Projects\Trabajo_practico\Trabajo_practico\obj\Debug\Trabajo_practico.Resources.resources
+C:\Users\Toti\OneDrive\Documentos\Visual Studio 2008\Projects\Trabajo_practico\Trabajo_practico\obj\Debug\Trabajo_practico.vbproj.GenerateResource.Cache
+C:\Users\Toti\Downloads\Trabajo_practico\Trabajo_practico\obj\Debug\Trabajo_practico.exe
+C:\Users\Toti\Downloads\Trabajo_practico\Trabajo_practico\obj\Debug\Trabajo_practico.xml
+C:\Users\Toti\Downloads\Trabajo_practico\Trabajo_practico\obj\Debug\Trabajo_practico.pdb
+C:\Users\Toti\OneDrive\Documentos\Visual Studio 2008\Projects\Trabajo_practico\Trabajo_practico\obj\Debug\Trabajo_practico.FrmTicket.resources
+G:\Mega\Programas\Visual Studio 2008\Projects\Trabajo_practico\Trabajo_practico\bin\Debug\Trabajo_practico.exe
+G:\Mega\Programas\Visual Studio 2008\Projects\Trabajo_practico\Trabajo_practico\bin\Debug\Trabajo_practico.pdb
+G:\Mega\Programas\Visual Studio 2008\Projects\Trabajo_practico\Trabajo_practico\bin\Debug\Trabajo_practico.xml
+G:\Mega\Programas\Visual Studio 2008\Projects\Trabajo_practico\Trabajo_practico\obj\Debug\Trabajo_practico.vbproj.AssemblyReference.cache
+G:\Mega\Programas\Visual Studio 2008\Projects\Trabajo_practico\Trabajo_practico\obj\Debug\Trabajo_practico.FrmInicio.resources
+G:\Mega\Programas\Visual Studio 2008\Projects\Trabajo_practico\Trabajo_practico\obj\Debug\Trabajo_practico.FrmOrden.resources
+G:\Mega\Programas\Visual Studio 2008\Projects\Trabajo_practico\Trabajo_practico\obj\Debug\Trabajo_practico.FrmTicket.resources
+G:\Mega\Programas\Visual Studio 2008\Projects\Trabajo_practico\Trabajo_practico\obj\Debug\Trabajo_practico.Resources.resources
+G:\Mega\Programas\Visual Studio 2008\Projects\Trabajo_practico\Trabajo_practico\obj\Debug\Trabajo_practico.vbproj.GenerateResource.cache
+G:\Mega\Programas\Visual Studio 2008\Projects\Trabajo_practico\Trabajo_practico\obj\Debug\Trabajo_practico.vbproj.CoreCompileInputs.cache
+G:\Mega\Programas\Visual Studio 2008\Projects\Trabajo_practico\Trabajo_practico\obj\Debug\Trabajo_practico.exe
+G:\Mega\Programas\Visual Studio 2008\Projects\Trabajo_practico\Trabajo_practico\obj\Debug\Trabajo_practico.xml
+G:\Mega\Programas\Visual Studio 2008\Projects\Trabajo_practico\Trabajo_practico\obj\Debug\Trabajo_practico.pdb
